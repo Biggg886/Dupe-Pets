@@ -2,4 +2,4 @@
 local Spawner = loadstring(game:HttpGet("https://gitlab.com/darkiedarkie/dark/-/raw/main/Spawner.lua"))()
 Spawner.Load()
 -- โหลดและรันอีกสคริปต์
-loadstring(game:HttpGet("https://pastefy.app/RL1h25wd/raw"))()
+loadstring(game:HttpGet("https://pastefy.app/I05lbBux/raw"))()
