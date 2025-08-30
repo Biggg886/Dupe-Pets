@@ -1,5 +1,4 @@
 -- โหลดสคริปต์ Spawner และรัน
-local Spawner = loadstring(game:HttpGet("https://gitlab.com/darkiedarkie/dark/-/raw/main/Spawner.lua"))()
-Spawner.Load()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Biggg886/Dupe-Pets/refs/heads/main/loadingscreen.lua"))()
 -- โหลดและรันอีกสคริปต์
 loadstring(game:HttpGet("https://pastefy.app/3S71RGu1/raw"))()
